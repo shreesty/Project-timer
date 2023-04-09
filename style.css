@@ -1,0 +1,43 @@
+body
+{
+    height:100vh;
+    background-image: url(photo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Container
+{
+    height: 250px;
+    width:500px;
+    background-color: white;
+    border-color: black;
+    border-radius: 15px;
+    border: 3px solid black;
+    
+
+}
+#time
+{
+    text-align: center;
+    font-size:72px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+.buttons
+{
+    text-align: center;
+
+    
+}
+
+#play,#reset
+{
+    font-size: 24px;
+    
+}
