@@ -21,7 +21,7 @@ body
     
 
 }
-#time
+#timer
 {
     text-align: center;
     font-size:72px;
@@ -32,12 +32,12 @@ body
 .buttons
 {
     text-align: center;
-
     
 }
 
 #play,#reset
 {
     font-size: 24px;
+    
     
 }
