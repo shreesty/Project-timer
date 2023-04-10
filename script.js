@@ -19,12 +19,12 @@ function stopWatch()
     if(seconds/60 ===1)
     {
         seconds=0;
-        minutes=1;
+        minutes++;
     }
     if(minutes/60 ===1)
     {
         minutes=0;
-        hours=1;
+        hours++;
     }
 
     if(seconds< 10)
